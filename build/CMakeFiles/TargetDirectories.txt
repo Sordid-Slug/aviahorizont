@@ -1,0 +1,3 @@
+/home/artem/Project/build/CMakeFiles/project.dir
+/home/artem/Project/build/CMakeFiles/edit_cache.dir
+/home/artem/Project/build/CMakeFiles/rebuild_cache.dir

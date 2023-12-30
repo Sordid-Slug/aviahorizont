@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/project.dir/src/main.c.o -o project  -lglfw -lGLEW -lGL -lm 
