@@ -523,8 +523,6 @@ int main() {
         }
 
         glfwSwapBuffers(window);
-        
-        printf("%d\n", curAngle >= (3 * M_PI / 4) && curAngle < (5 * M_PI / 4));
 
         curAngle = 5 * sin(timevalue);
         center[1] = 0.5 + (0.5 * sin(timevalue));

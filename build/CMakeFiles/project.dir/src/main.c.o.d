@@ -1,4 +1,4 @@
-CMakeFiles/project.dir/src/main.c.o: /home/artem/Project/src/main.c \
+CMakeFiles/project.dir/src/main.c.o: /home/artem/aviahorizont/src/main.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -34,7 +34,7 @@ CMakeFiles/project.dir/src/main.c.o: /home/artem/Project/src/main.c \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/GL/glu.h \
  /usr/include/GL/gl.h /usr/include/GLFW/glfw3.h \
- /home/artem/Project/src/linmath.h /usr/include/string.h \
+ /home/artem/aviahorizont/src/linmath.h /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h
